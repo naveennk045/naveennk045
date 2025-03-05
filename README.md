@@ -6,7 +6,7 @@ I'm a **software developer** with a passion for building innovative projects. Cu
 
 🌐 **What I Love to Do**  
 I enjoy collaborating on projects that involve:
-- **Web Development** – Building intuitive, responsive, and high-performing websites and applications.
+- **Software Development** – Building intuitive, responsive, and high-performing websites and applications.
 - **Machine Learning / AI** – Exploring AI/ML to create intelligent, data-driven solutions.
 
 🚀 **Career Goals**  
