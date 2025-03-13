@@ -2,7 +2,7 @@
 
 
 👨‍💻 **About Me**  
-I'm a **software developer** with a passion for building innovative projects. Currently, I'm diving into **web frameworks** to deepen my web development skills and expand my expertise.
+I'm a **software developer** with a passion for building innovative projects. Currently, I'm diving into **web frameworks** to deepen my Backend development skills and expand my expertise.
 
 🌐 **What I Love to Do**  
 I enjoy collaborating on projects that involve:
