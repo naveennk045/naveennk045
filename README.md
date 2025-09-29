@@ -1,164 +1,197 @@
-# Hi there 👋 It's me, Naveen!
+# Hi, I'm NK — Naveen Kumar
 
-👨‍💻 **About Me**  
-I'm a **Backend Developer** with experience in designing and developing scalable software solutions. Skilled in back-end technologies, API development, and database management, with a strong foundation in frameworks like Spring Boot and Django. Having basic knowledge in data analysis and artificial intelligence, committed to delivering efficient and impactful software applications while embracing continuous learning.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+AI+Enthusiast;Building+Scalable+Systems;Python+%7C+Java+%7C+Spring+Boot;Always+Learning+%26+Growing" alt="Typing SVG" />
+</div>
 
-🌐 **Professional Overview**  
-Backend Developer with experience in designing and developing scalable software solutions. Skilled in back-end technologies, API development, and database management, with a strong foundation in frameworks like Spring Boot and Django. Proficient in generative AI (genAI) and large language models (LLMs). Committed to delivering efficient and impactful software applications while embracing continuous learning.
+---
 
-### Skills
-- **Programming Languages:** Proficient in Python and Java, specializing in backend development, automation, and data-driven applications.
-- **Frameworks:** Spring Boot, Django, Rasa Framework (chatbot development).
-- **Web Technologies:** Web scraping using BeautifulSoup, Selenium, and Scrapy.
-- **Development Tools:** Git, GitHub (version control and collaboration).
-- **Data Science:** Data analysis using NumPy, Pandas, Matplotlib, Plotly Express; fundamental understanding of machine learning and deep learning.
-- **Databases:** MySQL, PostgreSQL (database design, optimization, and integration).
-- **Generative AI and LLMs:** Proficient in creating and deploying generative AI models and working with large language models.
+## About Me
 
-### Experience
+A **versatile software developer** and **freelancer** with hands-on experience in **Python, Java, and modern backend frameworks** like **FastAPI** and **Spring Boot**. I love **learning by doing** and can adapt to **any technology** required for a project. I believe in building **robust**, **scalable**, and **maintainable systems** that solve real-world problems.
 
-**Freelance Chatbot Developer, Dharapuram, Tamil Nadu**  
-*Dec 2024 – Present*  
-- Developing a WhatsApp-integrated chatbot using Rasa, MySQL, and WhatsApp Business API, streamlining customer queries and order placements for a small business.
-- Implemented AI-driven automation, improving business operations, increasing customer engagement by 50%.
+**What I Do:**
+- **AI-Powered Solutions** → Generative AI, LLM integrations, RAG systems
+- **Intelligent Chatbots** → WhatsApp Business API, Rasa Framework
+- **Backend Development** → RESTful APIs, microservices architecture  
+- **Automation Solutions** → Process optimization, workflow automation
+- **System Design** → SOLID principles, design patterns, scalable architectures
 
-**Java Developer Intern, Infosys Spring Board – Remote**  
-*Oct 2024 – Dec 2024*  
-- Designed and developed an online auction platform using Spring Boot, improving auction processes with a 30% increase in user engagement.
-- Implemented JWT-based authentication with Spring Security, enhancing security by reducing unauthorized access attempts by 40%.
-- Integrated Java Mail API, sending over 1,000 email notifications, improving user communication and feedback.
-- Utilized MySQL for database design, ensuring optimal performance, which resulted in a 20% faster transaction time.
-- Successfully collaborated remotely with a team to deliver a production-ready platform ahead of schedule.
-  
-### Let's Connect!
-I’d love to chat about tech, collaborate on exciting projects, or just exchange ideas. Feel free to reach out if you’d like to work together or if you’re curious about what I’m working on.
+Currently focusing on **cloud-based applications**, **advanced system design**, and delivering **high-performance, reliable systems**. I thrive on **learning new technologies** and turning ideas into practical software solutions.
 
+
+---
+
+## Tech Stack & Skills
+
+### **Programming Languages**
 <p align="left">
-  <a href="https://linkedin.com/in/naveenkumar045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/naveenkumar045" height="30" width="40" /></a>
-  <a href="https://kaggle.com/naveennk045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle.com/naveennk045" height="30" width="40" /></a>
-  <a href="mailto:naveennk045@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="naveennk045@gmail.com" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+### **Frameworks & Libraries**
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white" alt="Rasa"/>
+</p>
+
+### **Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+
+### **AI & Data Science**
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+</p>
+
+### **Web & APIs**
+<p align="left">
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/Beautiful_Soup-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Beautiful Soup"/>
+  <img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white" alt="Scrapy"/>
+</p>
+
+### **Tools & DevOps**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
 ---
- 
-### 🚀 My GitHub Journey
 
+## Development Environment
+
+### **IDEs & Editors**
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/>
+</p>
+
+### **Productivity Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
+
+### **Workspace**
+<p align="left">
+  <img src="https://img.shields.io/badge/NVIDIA-GTX_3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA GTX 3050"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+</p>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
 <p align="center">
   <a href="https://github.com/naveennk045">
-    <img src="https://github-stats-alpha.vercel.app/api?username=naveennk045&cc=22272e&tc=ffdd57&ic=1f77b4&bc=0000">
+   
+<img src="https://github-stats-alpha.vercel.app/api?username=naveennk045&cc=044343&tc=F4F4F4&ic=64748B&bc=0F172A" alt="Naveen's GitHub Stats - Futuristic" /></p> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveennk045&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=C9D1D9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveennk045&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
+</div>
+
+---
+
+## Coding Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=naveennk045&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+</div>
+
+### **LeetCode Progress**
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/naveennk045?ext=contest&theme=dark&font=source_code_pro" alt="LeetCode Stats"/>
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naveennk045&bg_color=0D1117&color=C9D1D9&line=00D4AA&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</div>
+
+---
+
+## Current Focus Areas
+
+```mermaid
+mindmap
+  root((NK's Focus))
+    Advanced Backend
+      Microservices Architecture
+      System Design Patterns
+      Performance Optimization
+    AI Integration
+      LLM Applications
+      RAG Systems
+      Intelligent Automation
+    Cloud Technologies
+      Containerization
+      Scalable Deployments
+      DevOps Practices
+    Freelance Projects
+      Client Solutions
+      Business Automation
+      Custom Integrations
+```
+
+---
+
+## Let's Connect & Collaborate!
+
+<div align="center">
+  
+### I'm actively seeking **freelance opportunities** to turn your ideas into powerful software solutions!
+
+<p align="center">
+  <a href="https://linkedin.com/in/naveenkumar045" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:naveennk045@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://kaggle.com/naveennk045" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="https://github.com/naveennk045" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
----
-
-### 🔧 My Coding Toolbox
-
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="120">
-      <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="120">
-      <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-      </a>
-      <br>Spring
-    </td>
-    <td align="center" width="120">
-      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-      </a>
-      <br>Django
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="120">
-      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-      </a>
-      <br>PostgreSQL
-    </td>
-  </tr>
-</table>
+</div>
 
 ---
 
-### 🛠️ IDE and Tools I Use
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=naveennk045&color=00D4AA&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+</div>
 
-<table align="center">
-  <tr>
-    <td align="center" width="130">
-      <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="50" height="50"/>
-      <br>Visual Studio Code
-    </td>
-    <td align="center" width="130">
-      <img src="https://img.icons8.com/color/48/000000/pycharm.png" width="50" height="50"/>
-      <br>PyCharm
-    </td>
-    <td align="center" width="130">
-      <img src="https://img.icons8.com/color/50/000000/git.png" width="50" height="50"/>
-      <br>Git
-    </td>
-    <td align="center" width="130">
-      <img src="https://img.icons8.com/dusk/64/000000/anaconda.png" width="50" height="50"/>
-      <br>Anaconda
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="130">
-      <img src="https://img.icons8.com/officel/480/null/java-eclipse.png" width="50" height="50"/>
-      <br>Eclipse
-    </td>
-    <td align="center" width="130">
-      <img src="https://img.icons8.com/color/480/null/notion--v1.png" width="50" height="50"/>
-      <br>Notion
-    </td>
-    <td align="center" width="130">
-      <img src="https://w7.pngwing.com/pngs/702/907/png-transparent-intellij-idea-integrated-development-environment-computer-software-jetbrains-java-others-miscellaneous-angle-text.png" width="50" height="50"/>
-      <br>IntelliJ IDEA
-    </td>
-  </tr>
-</table>
+<div align="center">
+  
+### *"Turning ideas into practical software solutions, one commit at a time."*
 
----
-
-### 💻 Workspace Specifications
-
-<p align="center">
-  <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-</p>
-
----
-
-### 📊 Coding & Problem-Solving Stats
-
-<p align="center">
-  <a href="https://leetcode.com/naveennk045">
-    <img src="https://leetcard.jacoblin.cool/naveennk045?ext=contest&cc=22272e&tc=ffdd57&ic=1f77b4&bc=0000" alt="Leetcode Stats" />
-  </a>
-</p>
-
----
-
-### 📈 GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=naveennk045&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true" alt="Naveen's GitHub Activity" />
-  </a>
-</p>
+</div>
