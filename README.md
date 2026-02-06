@@ -106,25 +106,7 @@ Currently focusing on **cloud-based applications**, **advanced system design**, 
   <a href="https://github.com/naveennk045">
    
 <img src="https://github-stats-alpha.vercel.app/api?username=naveennk045&cc=044343&tc=F4F4F4&ic=64748B&bc=0F172A" alt="Naveen's GitHub Stats - Futuristic" /></p> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveennk045&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=C9D1D9"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveennk045&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
-</div>
-
----
-
-## Coding Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naveennk045&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-</div>
-
-### **LeetCode Progress**
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/naveennk045?ext=contest&theme=dark&font=source_code_pro" alt="LeetCode Stats"/>
-</div>
 
 ---
 
