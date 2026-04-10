@@ -118,31 +118,6 @@ Currently focusing on **cloud-based applications**, **advanced system design**, 
 
 ---
 
-## Current Focus Areas
-
-```mermaid
-mindmap
-  root((NK's Focus))
-    Advanced Backend
-      Microservices Architecture
-      System Design Patterns
-      Performance Optimization
-    AI Integration
-      LLM Applications
-      RAG Systems
-      Intelligent Automation
-    Cloud Technologies
-      Containerization
-      Scalable Deployments
-      DevOps Practices
-    Freelance Projects
-      Client Solutions
-      Business Automation
-      Custom Integrations
-```
-
----
-
 ## Let's Connect & Collaborate!
 
 <div align="center">
