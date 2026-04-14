@@ -1,24 +1,79 @@
-# Hi, I'm NK — Naveenkumar
+# NK — Naveenkumar
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+AI+Enthusiast;Building+Scalable+Systems;Python+%7C+Java+%7C+Spring+Boot;Always+Learning+%26+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00D4AA&center=true&vCenter=true&width=650&lines=Give+me+a+problem.+I'll+build+the+solution.;Backend+%7C+AI+%7C+Anything+in+between.;Python+%2F+Java+%2F+Spring+Boot+%2F+LLMs;Freelancer+%7C+Builder+%7C+Learner" alt="Typing SVG" />
 </div>
 
 ---
 
-## About Me
+## Who I Am
 
-A **versatile software developer** and **freelancer** with hands-on experience in **Python, Java, and modern backend frameworks** like **FastAPI** and **Spring Boot**. I love **learning by doing** and can adapt to **any technology** required for a project. I believe in building **robust**, **scalable**, and **maintainable systems** that solve real-world problems.
+I'm a backend developer who builds things end-to-end.
 
-**What I Do:**
-- **AI-Powered Solutions** → Generative AI, LLM integrations, RAG systems
-- **Intelligent Chatbots** → WhatsApp Business API, Rasa Framework
-- **Backend Development** → RESTful APIs, microservices architecture  
-- **Automation Solutions** → Process optimization, workflow automation
-- **System Design** → SOLID principles, design patterns, scalable architectures
+Not just APIs — full systems. When a problem lands on my desk, I figure out what's needed, pick the right tools, and ship something that works. I don't wait until I know everything about a stack before starting — I learn what I need, when I need it.
 
-Currently focusing on **cloud-based applications**, **advanced system design**, and delivering **high-performance, reliable systems**. I thrive on **learning new technologies** and turning ideas into practical software solutions.
+My work spans **backend systems**, **AI-powered applications**, and **automation pipelines**. Whether it's integrating an LLM into a product, designing a REST API, or automating a broken workflow — I treat every project as an engineering problem with a concrete solution.
 
+---
+
+## How I Work
+
+```
+Problem → Understand it deeply → Break it into parts → Build iteratively → Ship it
+```
+
+- I start with the **what** and **why** before touching code
+- I prefer **building something imperfect** over planning something perfect
+- I write systems that are **readable by humans**, not just machines
+- If I don't know a tool, I learn it — that's never been a blocker
+- I hold myself accountable to **working software**, not just working code
+
+---
+
+## What I Build
+
+| Domain | What I've Done |
+|---|---|
+| **AI Systems** | RAG pipelines, LLM integrations, custom chatbots with memory and context |
+| **Backend APIs** | Production-grade REST APIs in FastAPI & Spring Boot |
+| **Automation** | End-to-end workflow automation, web scraping, data pipelines |
+| **Chatbots** | WhatsApp Business API bots, Rasa NLU-powered assistants |
+| **Data Processing** | Ingestion, transformation, and visualization pipelines |
+
+---
+
+## Projects
+
+> Proof of work over resume lines.
+
+### RAG-Based Document QA System
+Built a Retrieval-Augmented Generation pipeline that lets users query large document sets using natural language. Used LangChain, a vector store, and OpenAI under the hood — deployed as a FastAPI service.
+`Python` `LangChain` `FastAPI` `OpenAI` `Vector DB`
+
+---
+
+### WhatsApp Business Chatbot
+End-to-end intelligent chatbot integrated with WhatsApp Business API. Handles multi-turn conversations, intent classification via Rasa, and backend fulfillment via REST APIs.
+`Python` `Rasa` `WhatsApp API` `FastAPI` `PostgreSQL`
+
+---
+
+### Automated Data Pipeline
+Built a scraping-to-dashboard pipeline that collects, cleans, and visualizes structured data from multiple sources on a schedule. Reduced manual reporting effort to zero.
+`Python` `Scrapy` `Pandas` `Plotly` `PostgreSQL`
+
+---
+
+*More on [GitHub →](https://github.com/naveennk045)*
+
+---
+
+## Current Focus
+
+- Deepening knowledge in **distributed systems** and **system design at scale**
+- Experimenting with **agentic AI workflows** (multi-step, tool-using LLM agents)
+- Building toward **cloud-native deployments** (containerization, service orchestration)
+- Actively taking on **freelance projects** — backend, AI integrations, automation
 
 ---
 
@@ -73,82 +128,45 @@ Currently focusing on **cloud-based applications**, **advanced system design**, 
 
 ---
 
-## Development Environment
+## Let's Work Together
 
-### **IDEs & Editors**
 <p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/>
-</p>
-
-### **Productivity Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-</p>
-
-### **Workspace**
-<p align="left">
-  <img src="https://img.shields.io/badge/NVIDIA-GTX_3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA GTX 3050"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-</p>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-<p align="center">
+  <a href="https://linkedin.com/in/naveenkumar045">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:naveennk045@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <a href="https://github.com/naveennk045">
-   
-<img src="https://github-stats-alpha.vercel.app/api?username=naveennk045&cc=044343&tc=F4F4F4&ic=64748B&bc=0F172A" alt="Naveen's GitHub Stats - Futuristic" /></p> 
-
-
----
-
-## Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naveennk045&bg_color=0D1117&color=C9D1D9&line=00D4AA&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</div>
-
----
-
-## Let's Connect & Collaborate!
-
-<div align="center">
-  
-### I'm actively seeking **freelance opportunities** to turn your ideas into powerful software solutions!
-
-<p align="center">
-  <a href="https://linkedin.com/in/naveenkumar045" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:naveennk045@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://kaggle.com/naveennk045" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
-  <a href="https://github.com/naveennk045" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://kaggle.com/naveennk045">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
 </p>
 
+I'm open to **freelance projects** — especially ones where the problem is messy and the solution doesn't exist yet.
+
+If you have a system that needs to be built, automated, or fixed — let's talk.
+
+---
+
+<div align="center">
+
+![Streak](https://streak-stats.demolab.com?user=naveennk045&theme=transparent&hide_border=true&ring=a78bfa&fire=06b6d4&currStreakLabel=a78bfa&sideLabels=6b7280&dates=6b7280&background=1e1b4b&stroke=312e81&sideNums=e0d7ff&currStreakNum=e0d7ff)
+
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=naveennk045&bg_color=1e1b4b&color=a78bfa&line=06b6d4&point=f59e0b&area=true&hide_border=true&area_color=8b5cf620)
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=naveennk045&color=00D4AA&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=naveennk045&color=00D4AA&style=for-the-badge&label=Profile+Views"/>
 </div>
 
 <div align="center">
-  
-### *"Turning ideas into practical software solutions, one commit at a time."*
+
+*I don't just write code. I build things that work.*
 
 </div>
